@@ -1,0 +1,1 @@
+## Proyek ini bertujuan untuk menggali wawasan dari data yang diperoleh melalui YouTube API. Dalam proyek ini, data terkait video YouTube seperti judul, deskripsi, jumlah tayangan, suka, komentar, tanggal publikasi, dan informasi kanal diambil menggunakan YouTube API.
